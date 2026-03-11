@@ -18,7 +18,7 @@ Our mission is to move Dash from "hobbyist" integrations to **Institutional-Grad
 
 ## 🛠 Tech Stack
 - **Language**: Python 3.10+
-- **Infrastructure**: [Crypto APIs v2](https://developers.cryptoapis.io/technical-documentation/blockchain-data/dash)
+- **Infrastructure**: [Crypto APIs v2](https://developers.cryptoapis.io/v-2.2024-12-12-175/RESTapis/general-information/overview)
 - **Protocol**: Dash Core & Dash Platform (DPNS)
 
 ## 📋 Roadmap (185 DASH Proposal)
